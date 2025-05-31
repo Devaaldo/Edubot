@@ -32,7 +32,6 @@
 - [Studi Kasus](#-studi-kasus)
 - [Pengembangan](#-pengembangan-selanjutnya)
 - [Kontribusi](#-kontribusi)
-- [Lisensi](#-lisensi)
 
 ---
 
