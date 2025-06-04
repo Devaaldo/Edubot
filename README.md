@@ -570,7 +570,6 @@ python app.py
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@edubot.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/edubot)
 
-**Made with ❤️ for Indonesian Students**
 
 *Belajar jadi lebih mudah dengan Edubot!* 📚✨
 
